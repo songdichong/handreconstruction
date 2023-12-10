@@ -25,3 +25,4 @@ Introduction:
 3.	For the second part, model-free approach, train the model with train_joints.py and train_vertex.py
 4. 	Change the path of the state dictionary from step 3 in train_further_joints.py and train_further_vertex.py 
 5.	Run evaluate_modelfreeapproach.py to generate the auc curve
+6.  If you want to use our trained model for results the model could be downloaded at https://drive.google.com/drive/folders/1Y4PvXCuGQGdT3fbWKbmUi-Iq-7gZHGwQ?usp=drive_link. 'Failure1' corresponds to the model-based approach; 'joints' is the model-free approach's joint model; 'vertex' is the model-free approach's veretx model.
